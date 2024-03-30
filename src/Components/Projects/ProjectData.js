@@ -18,7 +18,7 @@ export const MernProjectData = [
     img: PortfolioImg,
     title: "Personal Portfolio",
     techstack: "React.js, Node.js, Tailwind CSS, Vite.js, Emailjs",
-    // live: "https://density-exchange-task-six.vercel.app/",
+    live: "https://portfolio-blush-nu-17.vercel.app/",
     github: "https://github.com/beingashusoni/portfolio/",
   },
   {
