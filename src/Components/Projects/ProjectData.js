@@ -1,4 +1,4 @@
-import ZuppImg from "./ProjectImg/ZuppImg.jpg";
+import ZuppImg from "./ProjectImg/zuppimg.jpg";
 import PortfolioImg from "./ProjectImg/PortfolioImg.jpg";
 import DribbleImg from "./ProjectImg/DribbleImg.jpg"; 
 import WeatherAppImg from "./ProjectImg/WeatherAppImg.jpg";
@@ -19,7 +19,7 @@ export const MernProjectData = [
     title: "Personal Portfolio",
     techstack: "React.js, Node.js, Tailwind CSS, Vite.js, Emailjs",
     // live: "https://density-exchange-task-six.vercel.app/",
-    // github: "https://github.com/beingashusoni/DensityExchangeTask/tree/main",
+    github: "https://github.com/beingashusoni/portfolio/",
   },
   {
     img: OesImg,
