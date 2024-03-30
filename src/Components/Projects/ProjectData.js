@@ -1,4 +1,4 @@
-import ZuppImg from "./ProjectImg/zuppimg.jpg";
+import ZupImg from "./ProjectImg/ZuppImg.jpg";
 import PortfolioImg from "./ProjectImg/PortfolioImg.jpg";
 import DribbleImg from "./ProjectImg/DribbleImg.jpg"; 
 import WeatherAppImg from "./ProjectImg/WeatherAppImg.jpg";
@@ -8,7 +8,7 @@ import MrsImg from "./ProjectImg/MrsImg.jpg";
 
 export const MernProjectData = [
   {
-    img: ZuppImg,
+    img: ZupImg,
     title: "Zuppp! - Upload, Share & Download File",
     techstack: "MongoDB, Express.js, React.js, Node.js, Tailwind CSS",
     // live: "https://density-exchange-task-six.vercel.app/",
