@@ -14,6 +14,9 @@ dependencies:
   '@vercel/analytics':
     specifier: ^1.1.1
     version: 1.1.1
+  emailjs-com:
+    specifier: ^3.2.0
+    version: 3.2.0
   react:
     specifier: ^18.2.0
     version: 18.2.0
@@ -1176,6 +1179,12 @@ packages:
   /electron-to-chromium@1.4.605:
     resolution: {integrity: sha512-V52j+P5z6cdRqTjPR/bYNxx7ETCHIkm5VIGuyCy3CMrfSnbEpIlLnk5oHmZo7gYvDfh2TfHeanB6rawyQ23ktg==}
     dev: true
+
+  /emailjs-com@3.2.0:
+    resolution: {integrity: sha512-Prbz3E1usiAwGjMNYRv6EsJ5c373cX7/AGnZQwOfrpNJrygQJ15+E9OOq4pU8yC977Z5xMetRfc3WmDX6RcjAA==}
+    engines: {node: '>=12.0.0'}
+    deprecated: The SDK name changed to @emailjs/browser
+    dev: false
 
   /es-abstract@1.22.3:
     resolution: {integrity: sha512-eiiY8HQeYfYH2Con2berK+To6GrK2RxbPawDkGq4UiCQQfZHb6wX9qQqkbpPqaxQFcl8d9QzZqo0tGE0VcrdwA==}
