@@ -42,7 +42,7 @@ const WorkExp = () => {
                 BrainOwls Technology - Bhopal
               </Typography>
               <Typography className=" my-2" color={darkMode ? 'white' : 'gray'}>
-                <span style={{ fontWeight: 'bold' }}>Software Developer Intern</span> <br /> Jan 202 - Present
+                <span style={{ fontWeight: 'bold' }}>Software Developer Intern</span> <br /> Jan'2024 - Present
               </Typography>
             </div>
           </TimelineHeader>
@@ -71,7 +71,7 @@ const WorkExp = () => {
                 Swaayam - Bengaluru
               </Typography>
               <Typography className=" my-2" color={darkMode ? 'white' : 'gray'}>
-                <span style={{ fontWeight: 'bold' }}>Technical Intern</span> <br /> Nov 2021 - Aug 2023 (1 Year 10 Months)
+                <span style={{ fontWeight: 'bold' }}>Intern</span> <br /> Mar'2023 - Aug'2023 (6 Months)
               </Typography>
             </div>
           </TimelineHeader>
@@ -105,7 +105,7 @@ const WorkExp = () => {
                 DroliaFresh - Patna
               </Typography>
               <Typography className=" my-2" color={darkMode ? 'white' : 'gray'}>
-                <span style={{ fontWeight: 'bold' }}>Web Developer Intern</span> <br /> May 2023 - Jul 2023 (2 Months)
+                <span style={{ fontWeight: 'bold' }}>Web Developer Intern</span> <br /> Aug'2022 - Jan'2023 (5 Months)
               </Typography>
             </div>
           </TimelineHeader>
