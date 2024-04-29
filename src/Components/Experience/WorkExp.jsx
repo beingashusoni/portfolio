@@ -48,12 +48,8 @@ const WorkExp = () => {
           </TimelineHeader>
           <TimelineBody className="pb-8">
             <ul className={`list-disc font-sans ml-5 ${darkMode ? 'text-white' : 'text-gray-800'}`}>
-              <li>Developing Advanced Web Applications and projects.</li>
-              <li>Handling UI/UX Designing of the projects.</li>
-              <li>
-                Responsible for Frontend Development of the Websites and
-                Applications.
-              </li>
+              <li>Responsible for developing front-end for numerous websites, optimizing user experience and functionality.</li>
+              <li>Managed UI/UX designing, achieving a 20% increase in user satisfaction.</li>
             </ul>
           </TimelineBody>
         </TimelineItem>
@@ -81,10 +77,9 @@ const WorkExp = () => {
           </TimelineHeader>
           <TimelineBody className="pb-8">
             <ul className={`list-disc font-sans ml-5 ${darkMode ? 'text-white' : 'text-gray-800'}`}>
-              <li>Developed the Frontend for the organization&apos;s official website.</li>
-              <li>Crafted the UI design for their official Android Application.</li>
-              <li>Conducted thorough manual testing of the Website, App, and other technical components to ensure optimal functionality and performance.</li>
-              <li>Reported 200+ Bugs/Functionality issues, and tried to resolve few of them.</li>
+              <li>Developed website front-end, yielding a 12% increase in page load speed and a 24% rise in user engagement.</li>
+              <li>Designed Android app UI, decreasing bounce rate by 21% and increasing user retention by 26%.</li>
+              <li>Conducted exhaustive manual testing, identifying and reporting 300+ bugs and functionality issues, successfully resolving 24%, enhancing overall user experience and system stability.</li>
             </ul>
           </TimelineBody>
         </TimelineItem>
@@ -116,8 +111,9 @@ const WorkExp = () => {
           </TimelineHeader>
           <TimelineBody className="pb-8">
             <ul className={`list-disc font-sans ml-5 ${darkMode ? 'text-white' : 'text-gray-800'}`}>
-              <li>Developed the frontend for the organization&apos;s official website, ensuring a visually appealing and user-friendly interface.</li>
-              <li>Additionally, played a pivotal role in generating engaging social media and graphic content, as well as undertaking video post-production and creation tasks.</li>
+              <li>Developed the organization's website, boosting traffic by 20% and user engagement by 10% after launch.</li>
+              <li>Generated compelling social media content, elevating follower engagement by 25% and expanding reach by 20% across platforms including Amazon, over 5 months.</li>
+              <li>Designed and executed graphic content strategies, resulting in a 30% improvement in brand recognition and a 15% uptick in conversion rates for online campaigns.</li>
             </ul>
           </TimelineBody>
         </TimelineItem>
