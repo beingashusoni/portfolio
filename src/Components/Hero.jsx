@@ -25,7 +25,7 @@ const Hero = () => {
           Software Engineer
         </p>
         <p className="text-lg md:text-l font-medium relative">
-          I&apos;m a Full Stack Developer & Ui/Ux Designer residing in <span className="inline-flex items-center"><img src={IndianFlag} alt="Indian Flag" className="h-3 w-auto" />INDIA</span> with a strong passion for web development and designing. Pouring my passion into crafting engaging web applications & design.
+          I&apos;m a Full Stack Developer & UI/UX Designer residing in <span className="inline-flex items-center"><img src={IndianFlag} alt="Indian Flag" className="h-3 w-auto" />INDIA</span> with a strong passion for web development and designing. Pouring my passion into crafting engaging web applications & design.
         </p>
 
         <div className="flex flex-row justify-center md:justify-normal gap-4 md:gap-6 mt-5">
@@ -35,7 +35,7 @@ const Hero = () => {
               About Me
             </Button>
           </Link>
-          <a href="https://docs.google.com/document/d/1TknaWU9EysG7mCGlXCGiT_laFhyKr12-BGmPH9Ta9eY/edit?usp=sharing" target="_blank" rel="noreferrer">
+          <a href="https://flowcv.com/resume/ta5o7lqo3e" target="_blank" rel="noreferrer">
             <Button variant="gradient" color="red" className="flex gap-2 items-center">
               <MdOutlineDocumentScanner className="text-white text-lg" />
               Resume
