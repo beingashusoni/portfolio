@@ -109,6 +109,18 @@ export const ToolSkills = [
     icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg",
   },
   {
+    name: "Adobe XD",
+    icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-original.svg",
+  },
+  {
+    name: "Framer",
+    icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/framermotion/framermotion-original.svg",
+  },
+  {
+    name: "Webflow",
+    icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webflow/webflow-original.svg",
+  },
+  {
     name: "Netlify",
     icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg",
   },
