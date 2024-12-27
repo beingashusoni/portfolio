@@ -2,7 +2,7 @@ import { Link } from 'react-router-dom';
 import { Button } from '@material-tailwind/react';
 import { FaUserTie } from 'react-icons/fa';
 import { MdOutlineDocumentScanner } from 'react-icons/md';
-import { AiFillTwitterCircle, AiFillInstagram, AiFillLinkedin, AiFillGithub } from 'react-icons/ai';
+import { AiFillTwitterCircle, AiFillInstagram, AiFillLinkedin, AiFillGithub, AiFillBehanceCircle } from 'react-icons/ai';
 import { MdEmail } from 'react-icons/md';
 import { useDarkMode, ThemeIcon } from '../DarkModeContext'; // Adjust the path as necessary
 import PPic from '../assets/ats.jpg';
@@ -62,6 +62,9 @@ const Hero = () => {
           </a>
           <a href="mailto:iamashuarya786@gmail.com">
             <MdEmail className="text-purple-400 text-2xl md:text-2xl" />
+          </a>
+          <a href="https://www.behance.net/beingashusoni" target="_blank" rel="noreferrer">
+            <AiFillBehanceCircle className="text-blue-500 text-2xl md:text-2xl" />
           </a>
           <a href="https://www.instagram.com/beingashusoni/" target="_blank" rel="noreferrer">
             <AiFillInstagram className="text-pink-400 text-2xl md:text-2xl" />
