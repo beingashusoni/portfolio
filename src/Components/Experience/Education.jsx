@@ -42,7 +42,7 @@ const Education = () => {
               <Typography color={darkMode ? "white" : "gray"} className={`font-semibold ${darkMode ? 'text-white' : 'text-gray-600'}`}>
                 Bachelor of Technology (B.Tech) -
                 <br />
-                Information Technology, <br /> 2021 - Present
+                Information Technology, <br /> Aug 2021 - Jul 2024
               </Typography>
             </TimelineBody>
           </TimelineItem>
@@ -67,7 +67,7 @@ const Education = () => {
               <Typography color={darkMode ? "white" : "gray"} className={`font-semibold ${darkMode ? 'text-white' : 'text-gray-600'}`}>
                 Diploma -
                 <br />
-                Computer Science & Engineering, <br /> 2017 - 2020
+                Computer Science & Engineering, <br /> Aug 2017 - Dec 2020
               </Typography>
             </TimelineBody>
           </TimelineItem>
