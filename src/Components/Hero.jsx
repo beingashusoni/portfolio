@@ -5,7 +5,7 @@ import { MdOutlineDocumentScanner } from 'react-icons/md';
 import { AiFillTwitterCircle, AiFillInstagram, AiFillLinkedin, AiFillGithub, AiFillBehanceCircle } from 'react-icons/ai';
 import { MdEmail } from 'react-icons/md';
 import { useDarkMode, ThemeIcon } from '../DarkModeContext'; // Adjust the path as necessary
-import PPic from '../assets/ats.jpg';
+import PPic from '../assets/ashu.png';
 import IndianFlag from '../assets/indian.jpg'; // Adjust the path to the PNG file
 
 const Hero = () => {
