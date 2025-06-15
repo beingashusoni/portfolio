@@ -18,7 +18,7 @@ const Hero = () => {
         <p className="text-3xl md:text-5xl font-bold relative">
           I&apos;m
           <span className="text-red-600 ml-4 uppercase">
-            Ashutosh Soni
+            Aashutosh Soni
           </span>
         </p>
         <p className="text-xl font-semibold relative uppercase">
