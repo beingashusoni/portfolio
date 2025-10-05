@@ -3,6 +3,7 @@ import { Button } from '@material-tailwind/react';
 import { FaUserTie } from 'react-icons/fa';
 import { MdOutlineDocumentScanner } from 'react-icons/md';
 import { AiFillTwitterCircle, AiFillInstagram, AiFillLinkedin, AiFillGithub, AiFillBehanceCircle } from 'react-icons/ai';
+import { PiFigmaLogoDuotone } from "react-icons/pi";
 import { MdEmail } from 'react-icons/md';
 import { useDarkMode, ThemeIcon } from '../DarkModeContext'; // Adjust the path as necessary
 import PPic from '../assets/ashu.png';
@@ -73,7 +74,7 @@ const Hero = () => {
             <AiFillTwitterCircle className="text-blue-500 text-2xl md:text-2xl" />
           </a>
           <a href="https://www.figma.com/design/YBfr9e3mgOetYkRrT6qBnA/Designs?node-id=0-1&t=TuQ7gf2nubSoJwWn-1" target="_blank" rel="noreferrer">
-            <AiFillFigma className="text-blue-500 text-2xl md:text-2xl" />
+            <PiFigmaLogoDuotone className="text-blue-500 text-2xl md:text-2xl" />
           </a>
         </div>
 
@@ -88,5 +89,6 @@ const Hero = () => {
 };
 
 export default Hero;
+
 
 
