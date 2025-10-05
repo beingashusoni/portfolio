@@ -72,6 +72,9 @@ const Hero = () => {
           <a href="https://twitter.com/beingashusoni" target="_blank" rel="noreferrer">
             <AiFillTwitterCircle className="text-blue-500 text-2xl md:text-2xl" />
           </a>
+          <a href="https://www.figma.com/design/YBfr9e3mgOetYkRrT6qBnA/Designs?node-id=0-1&t=TuQ7gf2nubSoJwWn-1" target="_blank" rel="noreferrer">
+            <AiFillFigma className="text-blue-500 text-2xl md:text-2xl" />
+          </a>
         </div>
 
       </div>
@@ -85,4 +88,5 @@ const Hero = () => {
 };
 
 export default Hero;
+
 
